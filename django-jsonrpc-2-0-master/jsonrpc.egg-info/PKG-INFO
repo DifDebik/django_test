@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: jsonrpc
+Version: 1.1
+Summary: A JSON-RPC 2.0 server that is loosely coupled to Django
+Home-page: http://github.com/orokusaki/django-jsonrpc-2-0/
+Author: Michael Angeletti
+Author-email: michael [at] angelettigroup [dot] com
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Utilities
+License-File: LICENSE

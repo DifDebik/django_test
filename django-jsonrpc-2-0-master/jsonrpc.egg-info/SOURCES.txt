@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+jsonrpc/__init__.py
+jsonrpc/decorators.py
+jsonrpc/encoders.py
+jsonrpc/errors.py
+jsonrpc/jsontype.py
+jsonrpc/service.py
+jsonrpc/signatures.py
+jsonrpc.egg-info/PKG-INFO
+jsonrpc.egg-info/SOURCES.txt
+jsonrpc.egg-info/dependency_links.txt
+jsonrpc.egg-info/top_level.txt
